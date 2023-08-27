@@ -5,7 +5,12 @@ Moreover, I have worked on data science projects involving natural language proc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Elbadriiiii" target="blank"><img src="https://img.shields.io/twitter/follow/Rania_hossam=twitter&style=for-the-badge" alt="elbaderii" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/Elbadriiiii" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Elbadriiiii?label=Follow&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
 
 
 
