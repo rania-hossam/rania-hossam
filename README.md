@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rania</h1>
 <h3 align="center">I am an ambitious aspiring Data Scientist. I have a keen interest in using my analytical skills and creativity to solve challenging problems in the data science field. Over the past few months, I have been developing a strong understanding of various data science concepts such as data wrangling, machine learning, predictive modeling and optimization techniques. Additionally, I am proficient in some of the most popular programming languages such as python, R and SQL. 
 
-Moreover, I have worked on data science projects involving natural language processing (NLP), customer segmentation and recommendation systems. During this process, I have gained valuable experience of working with different industry-standard tools such as scikit learn and TensorFlow. As evidenced by the work that I’ve done so far, I am capable of robustly handling all the responsibilities associated with a Data Scientist position, such as extracting insights from data for decision-making purpose or interacting with stakeholders for brainstorming about the products.
-
-I understand that my coding skills are still limited and there is still room for improvement, but please consider me to be an eager learner who can work hard in order to acquire any skill set necessary on the job. Based on my qualifications, knowledge and ambition to learn more every day, I am confident that I can make significant contributions to your team while achieving success in various projects related to data science.</h3>
+Moreover, I have worked on data science projects involving natural language processing (NLP), customer segmentation and recommendation systems. During this process, I have gained valuable experience of working with different industry-standard tools such as scikit learn and TensorFlow. As evidenced by the work that I’ve done so far, I am capable of robustly handling all the responsibilities associated with a Data Scientist position, such as extracting insights from data for decision-making purpose or interacting with stakeholders for brainstorming about the products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
 
@@ -12,9 +10,11 @@ I understand that my coding skills are still limited and there is still room for
 
 
 - 📫 Business inquiries **Raniahossam@gmail.com**
+[![Leetcode Stats](https://leetcard.Rania_hossam.cool/Rania_hossam)](https://leetcode.com/Rania_hossam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/Elbadriiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rania_ai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rania-hossam55?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGJvw9LLThGGEsY7r%2B3Gvw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniahossam" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/raniahossamelbadry/Home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raniahossam" height="30" width="40" /></a>
