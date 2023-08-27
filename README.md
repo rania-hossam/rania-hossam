@@ -10,10 +10,10 @@ Moreover, I have worked on data science projects involving natural language proc
 
 
 - 📫 Business inquiries **Raniahossam@gmail.com**
-[![Leetcode Stats](https://leetcard.Rania_hossam.cool/Rania_hossam)](https://leetcode.com/Rania_hossam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![LeetCode Stats](https://leetcard.Rania_hossam.cool/Rania_hossam)](https://leetcode.com/Rania_hossam)
 
 <a href="https://twitter.com/Elbadriiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rania_ai" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rania-hossam55?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGJvw9LLThGGEsY7r%2B3Gvw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raniahossam" height="30" width="40" /></a>
