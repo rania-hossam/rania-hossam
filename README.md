@@ -5,7 +5,7 @@ Moreover, I have worked on data science projects involving natural language proc
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Elbadriiiii" target="blank"><img src="https://img.shields.io/twitter/follow/nielsencv_ai?logo=twitter&style=for-the-badge" alt="elbaderii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Elbadriiiii" target="blank"><img src="https://img.shields.io/twitter/follow/Rania_hossam=twitter&style=for-the-badge" alt="elbaderii" /></a> </p>
 
 
 
@@ -27,6 +27,7 @@ Moreover, I have worked on data science projects involving natural language proc
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40">
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
