@@ -3,18 +3,12 @@
 
 Moreover, I have worked on data science projects involving natural language processing (NLP), customer segmentation and recommendation systems. During this process, I have gained valuable experience of working with different industry-standard tools such as scikit learn and TensorFlow. As evidenced by the work that I’ve done so far, I am capable of robustly handling all the responsibilities associated with a Data Scientist position, such as extracting insights from data for decision-making purpose or interacting with stakeholders for brainstorming about the products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niconielsen32&label=Profile%20views&color=0e75b6&style=flat-square" alt="niconielsen32" /> </p>
-
-<p align="left">
-  <a href="https://twitter.com/Elbadriiiii" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Elbadriiiii?label=Follow&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
 
 
 
-📫 Business inquiries: **Raniahossam@gmail.com**
+
+📫 Business inquiries: **Raniahossam952@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
