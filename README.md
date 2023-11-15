@@ -3,9 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-  <a href="https://leetcode.com/Rania_hossam">
-    <a href="https://www.linkedin.com/in/rania-hossam55?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGJvw9LLThGGEsY7r%2B3Gvw%3D%3D" target="_blank">
-    <a href="https://www.kaggle.com/raniahossamelbadry/Home" target="_blank">
+   - [LeetCode Profile](https://leetcode.com/Rania_hossam)
+- [LinkedIn Profile](https://www.linkedin.com/in/rania-hossam55?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrGJvw9LLThGGEsY7r%2B3Gvw%3D%3D)
+- [Kaggle Profile](https://www.kaggle.com/raniahossamelbadry/Home)
+
 
   
 
